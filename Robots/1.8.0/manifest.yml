@@ -1,0 +1,27 @@
+---
+name: Robots
+version: 1.8.0
+authors:
+- Robots Authors
+description: >
+  Create and simulate ABB, KUKA, UR, and Staubli robot programs.
+
+
+  Changes in 1.8.0:
+   - Improved Franka Emika inverse kinematics.
+   - Improved singularity and joint range checks.
+   - Changed Kinematics component tracks previous pose.
+   - Changed program simulation ends earlier at error.
+   - Changed Franka remote to call python3 instead of python.
+   - Changed solution to use new .slnx format.
+   - Added ability to use alternative post-processors.
+   - Added support for ABB GoFa.
+url: https://github.com/visose/robots
+keywords:
+- Robots
+- ABB
+- KUKA
+- UR
+- Staubli
+- Robotics
+icon: iconRobot.png

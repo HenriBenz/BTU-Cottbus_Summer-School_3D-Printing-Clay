@@ -1,0 +1,23 @@
+---
+name: Robots
+version: 1.9.0
+authors:
+- Robots Authors
+description: >
+  Create and simulate ABB, KUKA, UR, and Staubli robot programs.
+
+
+  Changes in 1.9.0:
+   - Added support for Igus robot.
+   - Changed to use .modx extension on Omnicore controllers.
+   - Fixed digital output declarations in Staubli.
+   - Fixed Doosan exception at initialization.
+url: https://github.com/visose/robots
+keywords:
+- Robots
+- ABB
+- KUKA
+- UR
+- Staubli
+- Robotics
+icon: iconRobot.png

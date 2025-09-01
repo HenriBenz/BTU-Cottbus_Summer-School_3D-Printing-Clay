@@ -1,0 +1,26 @@
+---
+name: Robots
+version: 1.7.0
+authors:
+- Robots Authors
+description: >
+  Create and simulate ABB, KUKA, UR, and Staubli robot programs.
+
+
+  Changes in 1.7.0:
+   - Fixed RIPEMD160 missing in .NET 7 (Rhino 8).
+   - Changed target attributes are now compared by value.
+   - Added cast from integer to Joints parameter.
+   - Added persistance to Joints parameter.
+   - Added support for Fanuc (by a third party contributor).
+   - Added deconstruct Toolpath component.
+   - Added ability to change folder path for local libraries.
+url: https://github.com/visose/robots
+keywords:
+- Robots
+- ABB
+- KUKA
+- UR
+- Staubli
+- Robotics
+icon: iconRobot.png
