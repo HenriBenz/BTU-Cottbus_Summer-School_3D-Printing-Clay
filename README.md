@@ -1,6 +1,6 @@
 Download hte Robots Plugin and....
 
-Save into C:\Users\"user"\AppData\Roaming\McNeel\Rhinoceros\packages\8.0
+Save into C:\Users\ "user" \AppData\Roaming\McNeel\Rhinoceros\packages\8.0
 
 
 
